@@ -4,4 +4,6 @@ My name is **Zahwa Putri Vanisa**, I'm currently studying at **Institut Teknolog
 
 I'm currently learning on how to become **Data Scientist** via Dicoding Camp! <br>
 
-Contact Me Through Here! [LinkedIn](www.linkedin.com/in/zahwaputrivanisa/).
+Contact Me Through Here! [LinkedIn](www.linkedin.com/in/zahwaputrivanisa/). <br>
+
+Fun fact: I like to play tennis 🎾
